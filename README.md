@@ -37,4 +37,4 @@ npx serve .
 
 ## Deployment
 
-Hosted on [Netlify](https://www.netlify.com/) via continuous deployment from this repository.
+Hosted on [Netlify](https://www.netlify.com/) via continuous deployment from this repository. Live at [futurewellbeing.netlify.app](https://futurewellbeing.netlify.app/).
